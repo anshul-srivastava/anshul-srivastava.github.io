@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://anshul-srivastava.github.io/tag/meta/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/web/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/voting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/crypto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/adversarial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/everything-is-broken/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://anshul-srivastava.github.io/tag/tutorial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://anshul-srivastava.github.io/tag/how-to/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/email/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/discourse/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/ai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tag/i-made-thing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/tracedsvg-placeholders/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/meddling-cryptographers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/how-to-set-up-email/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/dont-send-email-from-your-own-server/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/this-time-is-different/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/stop-bikeshedding-ai-ethics/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/how-this-blog-is-made/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://anshul-srivastava.github.io/tag/complexity/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://anshul-srivastava.github.io/tag/algorithm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://anshul-srivastava.github.io/tag/big-0/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://anshul-srivastava.github.io/Big-O-Notation-Part-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://anshul-srivastava.github.io/success/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://anshul-srivastava.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://anshul-srivastava.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://anshul-srivastava.github.io/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://anshul-srivastava.github.io/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://anshul-srivastava.github.io/follow/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://anshul-srivastava.github.io/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
