@@ -2,9 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https:/programmingblah.com/tag/tutorial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https:/programmingblah.com/tag/how-to/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:/programmingblah.com/tag/blockchain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:/programmingblah.com/tag/bitcoin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https:/programmingblah.com/tag/complexity/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https:/programmingblah.com/tag/algorithm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https:/programmingblah.com/tag/big-o/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https:/programmingblah.com/Blockchain-Introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https:/programmingblah.com/Big-O-Notation-Part-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https:/programmingblah.com/Big-O-Notation-Part-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https:/programmingblah.com/success/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
